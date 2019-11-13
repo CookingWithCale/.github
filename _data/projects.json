@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Greentech Cookbook",
+		"image": "placeholder.jpg",
+		"date": "November 2019",
+		"tags": ["Hardware","Software"]
+  },
+	{
+		"name": "Astartup Cookbook",
+		"image": "placeholder.jpg",
+		"date": "November 2014",
+		"tags": ["Entrepreneurship", "Startups","Inventing", "Engineering", "Productivity"]
+  },
+	{
+		"name": "Kabuki Starship Cookbook",
+		"image": "placeholder.jpg",
+		"date": "November 2019",
+		"tags": ["Engineering", "AI", "Space", "Rockets", "Physics"]
+  },
+	{
+		"name": "KabukiPress Cookbook",
+		"image": "placeholder.jpg",
+		"date": "November 2014",
+		"tags": ["Embedded-C++", "Script2"]
+  },
+	{
+		"name": "Script2",
+		"image": "placeholder.jpg",
+		"url": "https://github.com/kabuki-starship/script2",
+		"date": "July 2015",
+		"tags": ["Embedded C++","Script2"]
+	},
+	{
+		"name": "Kabuki Toolkit",
+		"image": "placeholder.jpg",
+		"url": "https://github.com/kabuki-starship/",
+		"date": "November 2012",
+		"tags": ["Embedded C++","Script2", "IMUL"]
+	},
+	{
+		"name": "IGEEK",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "July 2019",
+		"tags": ["Embedded C++","Script2", "IMUL"]
+	}
+]
