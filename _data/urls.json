@@ -26,6 +26,11 @@
     "icon": "fa-github"
   },
   {
+    "text": "YouTube",
+    "url": "https://www.youtube.com/channel/UCr0TJLd2e6d3-hfA-4yg5KA",
+    "icon": "fa-youtube"
+  },
+  {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
