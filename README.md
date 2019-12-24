@@ -1,4 +1,4 @@
-# Cooking with Cale Website
+# [cale-mccollough](https://github.com/cale-mccollough)
 
 This is the source repository for <https://cookingwithcale.org>.
 
