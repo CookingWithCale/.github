@@ -2,7 +2,8 @@ title: Cooking with Cale
 description: A hacker, maker, greentech, and entrepreneur live-stream hosted by Cale McCollough.
 author: Cale McCollough
 logo: /static/img/avatar.png
-github: https://github.com/cale-mccollough
+github: https://github.com/CookingWithCale
+linkedin: https://www.linkedin.com/in/calemccollough/
 about: Open-source Cookbooks
 
 baseurl: ""
@@ -14,7 +15,7 @@ disqus_shortname: cookingwithcale
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: dungeon_phoenix
+  twitter_username: CookingWithCale
   fb_appid: 000000000000
 
 
