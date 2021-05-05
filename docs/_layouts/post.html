@@ -1,72 +1,71 @@
 ---
 layout: default
 ---
-
 <div class="post-content well">
 <article class="content">
-    <div class="post">{{ content }}</div>
-    <hr />
-    {% include share-page.html %}
+  {% if page.featured-image %}
+  <img src="{{ site.baseurl }}/Posts/{{  page.featured-image }}Thumbnail.jpg" alt="{{ include.alt | default: 'image representing a theme in this article' }}" />
+  {% endif %}
+  <br />
+  <div class="post">{{ content }}</div>
+  <hr />
+  {% include share-page.html %}
 </article>
-<p>This stream is brought to you by open-source technologies you can contribute to. If you like this content you can find more free educational videos at cookingwithcale.org.</p>
-<p>You can vote with your money and GitHub forks and stars at</p>    
-<p><a href="https://cookingwithcale.org/projects">https://cookingwithcale.org/projects</a></p>
-<p>where your donations fund open-source greentech to combat global warming and AI-assisted disability, education, and productivity research.</p>
 <hr />
 {% assign hasSimilar = '' %}
 {% for post in site.posts  %}
-    {% assign postHasSimilar = false %}
-    {% for tag in post.categories %}
-        {% for thisTag in page.categories %}
-            {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
-                {% if hasSimilar.size == 0 %}
-                <div class="panel-body">
-                <h4>Related Posts</h4>
-                <ul>
-                {% endif %}
-                <li class="relatedPost">
-                    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                    {% if post.categories %}
-                        <small>(Categories: {% for category in post.categories %}<a href="/category/{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %})</small>
-                    {% endif %}
-                </li>
-                {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
-                {% assign postHasSimilar = true %}
-            {% endif %}
-        {% endfor %}
+  {% assign postHasSimilar = false %}
+  {% for tag in post.categories %}
+    {% for thisTag in page.categories %}
+      {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
+        {% if hasSimilar.size == 0 %}
+        <div class="panel-body">
+        <h4>Related Posts</h4>
+        <ul>
+        {% endif %}
+        <li class="relatedPost">
+          <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+          {% if post.categories %}
+            <small>(Categories: {% for category in post.categories %}<a href="/category/{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %})</small>
+          {% endif %}
+        </li>
+        {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
+        {% assign postHasSimilar = true %}
+      {% endif %}
     {% endfor %}
+  {% endfor %}
 {% endfor %}
 {% if hasSimilar.size > 0 %}
-    </ul>
-    </div>
+  </ul>
+  </div>
 {% endif %}
-
 <div class="PageNavigation">
   {% if page.previous.url %}
-    <a class="prev pull-left" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+  <a class="prev pull-left" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
   {% endif %}
   {% if page.next.url %}
-    <a class="next pull-right" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+  <a class="next pull-right" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
   {% endif %}
 </div>
-
-
-<div class="disqus-comments">
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* <![CDATA[ */
-
-        var disqus_shortname = "{{ site.disqus_shortname }}";
-        var disqus_identifier = "{{ site.url }}_{{ page.title }}";
-        var disqus_title = "{{ page.title }}";
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    /* ]]> */
-    </script>
+{% include donate.html %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cookingwithcale.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
 </div>

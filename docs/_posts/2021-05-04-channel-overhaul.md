@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Channel overhaul."
+categories: Updates
+featured-image: CookingWithCale141
+featured-image-alt: Foo.
+---
+
+2020 was indisputably a horrible year with the COVID lock downs and hateful politics around Trump in your face 24/7. I started the Cooking with Cale live stream where I authored open-source cookbooks and technology in Fall 2019 using a single YouTube channel for multiple semi-related STEM cookbooks for about 9 months. I did live streams pretty regularly but only got 13 subscribers and about the same views per stream and it killed my self-esteem. I felt bad about the low subscriber count at the time but after doing more research and running more channels this is pretty average for most streaming platforms. Most big streamers will stream for over a year with hardly anyone watching but it gives you the chance to refine your show so it's not a bad thing. I have all of the old live streams hidden because of the new updated vlog format.
+
+Before, the vlog format was that I would start the Session by reviewing the logs and live stream from yesterday, then I would complete GitHub Issue tickets, and switch between cookbooks on whatever day I felt like it. The new vlog format is there is one YouTube channel per cookbook and I'm completing one Mission Tickets per vlog. A Mission is a set of Issues required to complete a portion of a Milestone, where a Milestone is a collection of Missions required to complete the current project Phase in a product's lifecycle. The new vlogs will be much shorter, only containing the review of the Mission screen captures from multiple Sessions (i.e. days) and show and tell of a working open-source product they can download, along with the the command line argument required to clone the git repo at that commit. The links to the cookbook channels links are:
+
+* Cooking with Cale Personal Channel and Antifa-nazi Riot Cookbook <[YouTube](https://www.youtube.com/channel/UCOAYURrc8ZfAzy5-FmcMo7w)> <[GitHub](https://github.com/CookingWithCale/GreentechCookbook)>
+* Greentech Cookbook <[YouTube](https://www.youtube.com/channel/UCr0TJLd2e6d3-hfA-4yg5KA)> <[GitHub](https://github.com/CookingWithCale/GreentechCookbook)>
+* AStartup Cookbook <[YouTube](https://www.youtube.com/channel/UC8LTSnxExQB0gGGWXKA7IFg)> <[GitHub](https://github.com/CookingWithCale/AStartupCookbook)>
+* KabukiPress Cookbook <[YouTube](https://www.youtube.com/channel/UC8LTSnxExQB0gGGWXKA7IFg)> <[GitHub](https://github.com/CookingWithCale/KabukiPressCookbook)>
+* IGeek Cookbook <[YouTube](https://www.youtube.com/channel/UCS2vQG4gUE3vXWV_K9XScQw)> <[GitHub](https://github.com/CookingWithCale/IGeekCookbook)>
+* Pandemic Cookbook ***(Canceled)*** <[GitHub](https://github.com/CookingWithCale/PandemicCookbook)>
+
+## Progress Report
+
+In the [Greentech Cookbook](https://github.com/CookingWithCale/GreentechCookbook) I learned a lot about geothermal energy, carbon sequestration, heat pumps, and bio-digestors and I've explored multiple methods to get hot water to multiple homes efficiently. I invented an Oregon Cooler CO2 sequestration technique using an ice machine heat pump hot water heater/pre-heater that uses a biomimicked Ice Lung, which is basically a swamp cooler with ice cold pure H20 that uses carbonic acid bonds and the increased gas content of the colder water to 'breathe CO2' into a grow tent. There is some debate as to if there are hidden inefficiencies, such as how much water you can boil per day, how many homes would need to share what hardware, and would it be too much of an eye sore that it would turn people off, it does require bulky but attractive solar water preheaters. I personally think Solar water preheaters could be the next architectural revolution. I'm reasonably sure that the way to go is to run pipes between houses to transport cold water from one home through the ground and use decorative solar water heaters to heat up the water, heating and cooling homes with geothermal energy and methane from compost in a biodigester. Each cluster of homes needs to agree to share compost and allow for the solar water preheaters. The trick is just justifying the holes in the ground and ensuring it's not going to be a nightmare to upkeep, and making it a product people want, so it has to be coupled with another home upgrade that pays for itself billed as the revolutionary home of the future.
+
+When the 2020 COVID Pandemic started I created the [Pandemic Cookbook](https://github.com/CookingWithCale/PandemicCookbook) and built an open-source ventilator and a Python-based control software with C++ firmware that worked with mbed and Arduino in a project called [SickBay](https://github.com/CookingWithCale/SickBay). My plan was to use the firmware from the ventilator to run the Oregon Cooler Ice Lung, because it was biomimicry of a cold-blooded lung. I canceled that project because there is pretty much a 0% anyone would ever use our open-source ventilator. I knew that going into the project but the purpose was to make progress on the Oregon Cooler firmware based on [ScriptTek](https://github.com/KabukiStarship/ScriptTek). Overall I'm happy with the progress but wish there had more progress on ScriptTek. We have a rock solid model to use mbed or Arduino with Sigma(wx+b)=Sigma(A*B). I'm not sure if there are any other toolkits that can do that.
+
+In the [KabukiPress Cookbook](https://github.com/CookingWithCale/KabukiPressCookbook) I got a rock solid book layout and some documentation on Script2 but I never got [Script2](https://github.com/KabukiStarship/Script2) or [Kabuki Toolkit](https://github.com/KabukiStarship/KabukiToolkit) working.
+
+I made some progress on the [AStartup Cookbook](https://github.com/CookingWithCale/AStartupCookbook), a book on how to engineer successful startups with Issue-driven development and IMUL, but little progress on the [AStartup Toolkit](https://github.com/KabukiStarship/AStartupToolkit) and [Mission Control Center](https://github.com/KabukiStarship/AStartupMCC). I'm now using the Issue-driven Development chapter as my DRY documentation for contributors on all of my projects that I hope will attract contributors to the book.
+
+The other big project that really opens the doors for some cool AI and creating a search engine is [WikiSpy](https://github.com/WikiSpy/WikiSpy)
+
+At this point I had an entrepreneurial seizure from all of the options, flashy toys, and decisions.

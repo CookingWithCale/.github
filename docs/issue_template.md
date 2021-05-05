@@ -1,16 +1,14 @@
-# IssueType
-
 ## Problem
 
-
+The Problem that I am addressing is...
 
 ## Solution
 
+The Solution to the Problem is...
 
+## Session
 
-### Files Affected
-
-1. 
+* CookingWithCale/CookingWithCale#1
 
 ## Hierarchy
 
@@ -18,6 +16,4 @@
 
 ## License
 
-Copyright © 2020 [Kabuki Starship](https://kabukistarship.com).
-
-This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.
+Copyright 2014-21 © Cale McCollough <<https://cookingwithcale.org>>; most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://cookingwithcale.org/License>.

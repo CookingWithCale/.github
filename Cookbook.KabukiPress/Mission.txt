@@ -1,0 +1,5 @@
+Build open-source self-hosted social network based on RSS, Markdown, IMUL, 
+C++, and KabukiPress. #90
+>< KabukiPress
+   Add classes to read Jekyll sites. #4
+   Scout for more missions. #5

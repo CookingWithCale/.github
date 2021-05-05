@@ -27,3 +27,7 @@ per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
+exclude: ['_site', 'node_modules', 'bug_report_template.md', 
+  'code_of_conduct.md', 'contributing.md', 'feature_request_template.md', 
+  'issue_template.md', 'pull_request_template.md', 'ReadMe.md', 'Roadmap.md', 
+  'VideoTags.md']
