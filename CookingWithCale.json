@@ -1,0 +1,4312 @@
+{
+    "DesktopAudioDevice1": {
+        "balance": 0.5,
+        "deinterlace_field_order": 0,
+        "deinterlace_mode": 0,
+        "enabled": true,
+        "filters": [
+            {
+                "balance": 0.5,
+                "deinterlace_field_order": 0,
+                "deinterlace_mode": 0,
+                "enabled": true,
+                "flags": 0,
+                "hotkeys": {},
+                "id": "vst_filter",
+                "mixers": 255,
+                "monitoring_type": 0,
+                "muted": false,
+                "name": "VST 2.x Plug-in",
+                "prev_ver": 436273153,
+                "private_settings": {},
+                "push-to-mute": false,
+                "push-to-mute-delay": 0,
+                "push-to-talk": false,
+                "push-to-talk-delay": 0,
+                "settings": {
+                    "chunk_data": "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",
+                    "plugin_path": "C:/Program Files/Steinberg/VstPlugins/Neutron 3 Elements.dll"
+                },
+                "sync": 0,
+                "versioned_id": "vst_filter",
+                "volume": 1.0
+            }
+        ],
+        "flags": 0,
+        "hotkeys": {
+            "libobs.mute": [],
+            "libobs.push-to-mute": [],
+            "libobs.push-to-talk": [],
+            "libobs.unmute": []
+        },
+        "id": "wasapi_output_capture",
+        "mixers": 255,
+        "monitoring_type": 0,
+        "muted": false,
+        "name": "Desktop Audio",
+        "prev_ver": 436273153,
+        "private_settings": {},
+        "push-to-mute": false,
+        "push-to-mute-delay": 0,
+        "push-to-talk": false,
+        "push-to-talk-delay": 0,
+        "settings": {
+            "device_id": "default"
+        },
+        "sync": 0,
+        "versioned_id": "wasapi_output_capture",
+        "volume": 1.0
+    },
+    "current_program_scene": "D.Cropped,B.XL",
+    "current_scene": "D.Cropped,B.XL",
+    "current_transition": "Fade",
+    "groups": [],
+    "modules": {
+        "auto-scene-switcher": {
+            "active": false,
+            "interval": 300,
+            "non_matching_scene": "",
+            "switch_if_not_matching": false,
+            "switches": []
+        },
+        "captions": {
+            "enabled": false,
+            "lang_id": 1033,
+            "provider": "mssapi",
+            "source": ""
+        },
+        "decklink_captions": {
+            "source": ""
+        },
+        "output-timer": {
+            "autoStartRecordTimer": false,
+            "autoStartStreamTimer": false,
+            "pauseRecordTimer": true,
+            "recordTimerHours": 0,
+            "recordTimerMinutes": 0,
+            "recordTimerSeconds": 30,
+            "streamTimerHours": 0,
+            "streamTimerMinutes": 0,
+            "streamTimerSeconds": 30
+        },
+        "scripts-tool": []
+    },
+    "name": "CookingWithCale",
+    "preview_locked": false,
+    "quick_transitions": [
+        {
+            "duration": 300,
+            "fade_to_black": false,
+            "hotkeys": [],
+            "id": 1,
+            "name": "Cut"
+        },
+        {
+            "duration": 300,
+            "fade_to_black": false,
+            "hotkeys": [],
+            "id": 2,
+            "name": "Fade"
+        }
+    ],
+    "saved_projectors": [],
+    "scaling_enabled": false,
+    "scaling_level": 0,
+    "scaling_off_x": 0.0,
+    "scaling_off_y": 0.0,
+    "scene_order": [
+        {
+            "name": "B"
+        },
+        {
+            "name": "Desktop,B.Small"
+        },
+        {
+            "name": "Desktop,B.Medium"
+        },
+        {
+            "name": "Desktop,B.Large"
+        },
+        {
+            "name": "Desktop,B.XL"
+        },
+        {
+            "name": "Desktop.Cropped,B.XL"
+        },
+        {
+            "name": "Desktop"
+        },
+        {
+            "name": "D,B.Small"
+        },
+        {
+            "name": "D,B.Medium"
+        },
+        {
+            "name": "D,B.Large"
+        },
+        {
+            "name": "D,B.XL"
+        },
+        {
+            "name": "D.Cropped,B.XL"
+        },
+        {
+            "name": "D"
+        },
+        {
+            "name": "Intro.Left"
+        },
+        {
+            "name": "Break"
+        },
+        {
+            "name": "Room"
+        },
+        {
+            "name": "Config"
+        }
+    ],
+    "sources": [
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Config.Label",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "color": 4278212095,
+                "font": {
+                    "face": "Bauhaus 93",
+                    "flags": 0,
+                    "size": 72,
+                    "style": "Regular"
+                },
+                "text": "CookingWithCale"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Display.Main.Label",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Arial",
+                    "flags": 0,
+                    "size": 48,
+                    "style": "Regular"
+                },
+                "text": "Desktop"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "color_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "ColorSource.Config.Row.Bottom",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "color": 4278190335,
+                "height": 64
+            },
+            "sync": 0,
+            "versioned_id": "color_source_v3",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.D.Label",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Arial",
+                    "flags": 0,
+                    "size": 48,
+                    "style": "Regular"
+                },
+                "text": "D"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.C.Label",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Arial",
+                    "flags": 0,
+                    "size": 48,
+                    "style": "Regular"
+                },
+                "text": "C"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.B.Label",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Arial",
+                    "flags": 0,
+                    "size": 48,
+                    "style": "Regular"
+                },
+                "text": "B"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "color_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "ColorSource.Config.Background",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {},
+            "sync": 0,
+            "versioned_id": "color_source_v3",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.A.Label",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Arial",
+                    "flags": 0,
+                    "size": 48,
+                    "style": "Regular"
+                },
+                "text": "A"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Cam.A": [],
+                "libobs.hide_scene_item.Cam.A.Label": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.B.Label": [],
+                "libobs.hide_scene_item.Cam.C": [],
+                "libobs.hide_scene_item.Cam.C.Label": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.hide_scene_item.Cam.D.Label": [],
+                "libobs.hide_scene_item.ColorSource.Config.Background": [],
+                "libobs.hide_scene_item.ColorSource.Config.Row.Bottom": [],
+                "libobs.hide_scene_item.Config.Label": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.hide_scene_item.Display.Main.Label": [],
+                "libobs.show_scene_item.Cam.A": [],
+                "libobs.show_scene_item.Cam.A.Label": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.B.Label": [],
+                "libobs.show_scene_item.Cam.C": [],
+                "libobs.show_scene_item.Cam.C.Label": [],
+                "libobs.show_scene_item.Cam.D": [],
+                "libobs.show_scene_item.Cam.D.Label": [],
+                "libobs.show_scene_item.ColorSource.Config.Background": [],
+                "libobs.show_scene_item.ColorSource.Config.Row.Bottom": [],
+                "libobs.show_scene_item.Config.Label": [],
+                "libobs.show_scene_item.Display.Main": [],
+                "libobs.show_scene_item.Display.Main.Label": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Config",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 14,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "ColorSource.Config.Background",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 11,
+                        "locked": false,
+                        "name": "ColorSource.Config.Row.Bottom",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 733.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 13,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 122.0,
+                            "y": 841.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.1666666716337204,
+                            "y": 0.1666666716337204
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 12,
+                        "locked": false,
+                        "name": "Display.Main.Label",
+                        "pos": {
+                            "x": 205.0,
+                            "y": 743.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 9,
+                        "locked": false,
+                        "name": "ColorSource.Config.Row.Bottom",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 382.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 1437.0,
+                            "y": 476.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.1666666716337204,
+                            "y": 0.1666666716337204
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Cam.D.Label",
+                        "pos": {
+                            "x": 1578.0,
+                            "y": 391.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 10,
+                        "locked": false,
+                        "name": "Cam.C",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {},
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "Cam.C.Label",
+                        "pos": {
+                            "x": 1127.0,
+                            "y": 388.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 554.0,
+                            "y": 476.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.083333335816860199,
+                            "y": 0.083333335816860199
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "Cam.B.Label",
+                        "pos": {
+                            "x": 697.0,
+                            "y": 389.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Cam.A",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {},
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Cam.A.Label",
+                        "pos": {
+                            "x": 265.0,
+                            "y": 390.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 14,
+                        "locked": false,
+                        "name": "Config.Label",
+                        "pos": {
+                            "x": 706.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_T"
+                    }
+                ],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.D": [],
+                "libobs.show_scene_item.Display.Main": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "D.Cropped,B.XL",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 3,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": -1854.0,
+                            "y": -1080.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 300.0,
+                            "y": 90.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.83333331346511841,
+                            "y": 0.83333331346511841
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 300.0,
+                            "y": 90.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.83333331346511841,
+                            "y": 0.83333331346511841
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_5"
+                    }
+                ],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Display.Main": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Desktop.Cropped,B.XL",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 2,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": -1854.0,
+                            "y": -1080.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 300.0,
+                            "y": 90.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.83333331346511841,
+                            "y": 0.83333331346511841
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "filters": [
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "vst_filter",
+                    "mixers": 255,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "RXVoiceDeNoise",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "chunk_data": "4AIAAMu+QwACAAAA1AIAAAwfAAB4nO2ZS1PbMBCA7/kVGp/bjOV3eisNdJgJjyGBQ29KvCYqsuSRZQrD5L/XcRLqgA3Ow0UwzOSQrJTdb1frXUl+6CCEjB+CK7hTaKiIAgN9Qw9z8XxkdJ8UAqNPJ4oKTuS98WU1eEVYtpg+m4tmxYDRH55vr2gpWek5ZBADV+mTsdcUvqB2pRy4oCnIX4PK8WYGXjWznLD0Ap2S+KV5a0aHSlJ+XWnwqdmyM9XTZzVqjENOxgzQ95Akit4CGgCRfG63IeWBEKwRo5IZbMd2RDmg07l/6FyKiLLGIfwPcK3FKyIs3ZTpiDIFEq2MNeG5POaqEY+5IcsJuaNxFqMLCLPi6UF9SNS0KdcRE6QZGLY2JDsnksToCmSaU+09TpvSDEUmJ4BO8nIpKWFvvm6jqYR0KliI+uP9L9b2NENGwzy3zf0zffVw13GDnmXbdi9wbN/dFRK3AOkGXc8yLcsPsO1bpm/au1JaLVD6Ttf2HdPGpucFPce18a6UdguUAe6a2HEd7Fluz/dcb+dYOm1QOl3fxY7t2JaHfRzsnpduC5Q9qxsEOP/42A68HDOooawQP5M9d8X4SWhtkd7jDu3gPiFpxS6z2lyrXXyBgl5y/ClPewW47Z1r4eWGTPP/oGOeZCrffkXq7YNUBhKTGwg1REJnUZSCXsG6oNdTXYjOMqVZQq2IdMqoNSa9UmqJpmFOjSSN9SNCixOsFi3vX6HS4WhfSnIdcNo9r9al0bbbNSbG9afYd3SltnTkI69V8dQN4BY+wnqVnNl0i7u4yZtkYzpBlCuQiWCkuLKKhFxIUhIn+ZwEyA0KQUERDB2KQ546cC2JyrvxQGQhh/zk8NparMG113Aeec5uQUZM/NGi1TxSjQQDSfhEg0i9q6qx6I4fpWyUvfmsG59147Nu7KdudGp+rb6W3xefkN/581LhRg106d1PWQvlO2npzDp/Ad0o+S4HAAAARGVmYXVsdA==",
+                        "plugin_path": "C:/Program Files/Steinberg/VstPlugins/RX 7 Voice De-noise.dll"
+                    },
+                    "sync": 0,
+                    "versioned_id": "vst_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "vst_filter",
+                    "mixers": 255,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "NectarElements",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "chunk_data": "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",
+                        "plugin_path": "C:/Program Files/Steinberg/VstPlugins/Nectar 3 Elements.dll"
+                    },
+                    "sync": 0,
+                    "versioned_id": "vst_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "vst_filter",
+                    "mixers": 255,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "NeutronElements",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "chunk_data": "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",
+                        "plugin_path": "C:/Program Files/Steinberg/VstPlugins/Neutron 3 Elements.dll"
+                    },
+                    "sync": 0,
+                    "versioned_id": "vst_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "vst_filter",
+                    "mixers": 255,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "OzoneElements",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "chunk_data": "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",
+                        "plugin_path": "C:/Program Files/Steinberg/VstPlugins/Ozone 9 Elements.dll"
+                    },
+                    "sync": 0,
+                    "versioned_id": "vst_filter",
+                    "volume": 1.0
+                }
+            ],
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "wasapi_input_capture",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "AudioIn.D",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "device_id": "{0.0.1.00000000}.{dcf23dcc-a5b4-4cff-8518-09863918f38b}"
+            },
+            "sync": 0,
+            "versioned_id": "wasapi_input_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "filters": [
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "vst_filter",
+                    "mixers": 255,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "RXVoiceNoise",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "chunk_data": "1gIAAMu+QwACAAAAygIAAAwfAAB4nO2ZS3ObMBCA7/4VGs6tRyBsoLemTjqZcR5Tuzn0JpslViMkRog0mYz/ezG2U5JAgh80SiY3s5J3v10tq5W46yCErG9SaLjRaKSpBgt9QXcL8WJkfJsUAmvApppJQdWt9Wk9eEF5tpw+X4jmxYA1GJ1vr2glWes55BCD0OmjsZcUPqN2rRyEZCmoX8PK8WYGXjSzmrDyAp3S+Ll5D4yOtGListLgY7NlZ6qnz2vUWIeCTjigryFNNLsGNASqxMJuQ8oDKXkjRq0y2I7tiAlApwv/0LmSEeONQ/gf4FqLV0R5uinTEeMaFFoba8Lz81joRjx4Q5YTesPiLEY/IMyKtwcNINGzplxHXNJmYLazIdk5VTRGF6DSnGrvcdqUZiQzNQV0kpdLxSh/9XUbzxSkM8lDNJjsf7G2pxlxFua5jffP9DkgXT/AhPSwTzD2fJvsSmm3QGnjftfxHewSt+dhYju9XSmdVihJlxAcEKdve7bv7QxJWoMMcM8LHIf0iePvSum2RIl7LsF9TLDjEdfdlbLXCqXTDXwSeL7j2a7vkrpYVoifyJ66Yn2nrLZI77FDO7hNaFrRZVaba3UXX6Kg5xx/zNNeAW67cy283JBp8R90LJJM5+1XpF8/SGUgOb2C0EAkdBZFKZgVrB/scmYK0VmmDUuoNZFJGfWAyayUWqEZmFNjxWLziNDyBGvElvevUJlwtC8luQk47Z5X69Jo23aNy0n9KfYNXamtHHnPa1W8dUO4hvewXiVnNm1xlzd502zCpogJDSqRnBZXVpFUS0lK4ySfkwC9QiFoKIJhQnHIUwcuFdX5bjyUWSggPzm8tBYP4NrbcO55zq5BRVz+MWKruacaSw6KiqkBkXpTVWO5O76XslH25qNufNSNj7qxn7rRqXla/yx/Lz6hv/P3pcKNGujSt5+yFiZ20tKZd/4C8Dz43gcAAABEZWZhdWx0",
+                        "plugin_path": "C:/Program Files/Steinberg/VstPlugins/RX 7 Voice De-noise.dll"
+                    },
+                    "sync": 0,
+                    "versioned_id": "vst_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "vst_filter",
+                    "mixers": 255,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Neurtron",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "chunk_data": "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",
+                        "plugin_path": "C:/Program Files/Steinberg/VstPlugins/Neutron 3 Elements.dll"
+                    },
+                    "sync": 0,
+                    "versioned_id": "vst_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "vst_filter",
+                    "mixers": 255,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Ozone",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "chunk_data": "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",
+                        "plugin_path": "C:/Program Files/Steinberg/VstPlugins/Ozone 9 Elements.dll"
+                    },
+                    "sync": 0,
+                    "versioned_id": "vst_filter",
+                    "volume": 1.0
+                }
+            ],
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "asio_input_capture",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Mic.B",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "device_id": "UMC ASIO Driver",
+                "route 0": -1,
+                "speaker_layout": 1
+            },
+            "sync": 0,
+            "versioned_id": "asio_input_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Image.Forground",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/calem/Workspace/CookingWithCale/CookingWithCale/Art/Thumbnail/CookingWithCale.Art.Thumnail.Forground.png",
+                "unload": false
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_Q"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.D": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "D,B.Small",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 7,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 1019,
+                        "crop_right": 790,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 900.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.083333335816860199,
+                            "y": 0.083333335816860199
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_W"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.D": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "D,B.Medium",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 8,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 960,
+                        "crop_right": 960,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 720.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.1666666716337204,
+                            "y": 0.1666666716337204
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Image.Intro",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/calem/Workspace/CookingWithCale/CookingWithCale/Cookbook.IGEEK/Art/Thumbnail/IGEEKCookbook.Intro.Image.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Text.Welcome",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "align": "center",
+                "font": {
+                    "face": "Georgia",
+                    "flags": 0,
+                    "size": 256,
+                    "style": "Regular"
+                },
+                "text": "Bong Hits for Jesus!"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_E"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.D": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "D,B.Large",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 7,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 960,
+                        "crop_right": 960,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_2"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.D": [],
+                "libobs.show_scene_item.Display.Main": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Desktop,B.Medium",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 8,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 960,
+                        "crop_right": 960,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 720.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.1666666716337204,
+                            "y": 0.1666666716337204
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 1133.0,
+                            "y": 637.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.40989583730697632,
+                            "y": 0.41018518805503845
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Image.Background",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/calem/Workspace/CookingWithCale/CookingWithCale/Cookbook.IGEEK/Art/Thumbnail/Background.png",
+                "unload": true
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "monitor_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Display.Main",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "monitor": 1
+            },
+            "sync": 0,
+            "versioned_id": "monitor_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_3"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Display.Main": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Desktop,B.Large",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 12,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 12,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 960,
+                        "crop_right": 960,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 11,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "filters": [
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "color_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Color Correction",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "brightness": 0.050000000000000003,
+                        "contrast": -0.12,
+                        "gamma": -0.40000000000000002
+                    },
+                    "sync": 0,
+                    "versioned_id": "color_filter",
+                    "volume": 1.0
+                }
+            ],
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "dshow_input",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.D",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "active": true,
+                "color_range": "full",
+                "color_space": "709",
+                "frame_interval": 333333,
+                "last_resolution": "1920x1080",
+                "last_video_device_id": "1080P Pro Stream WebCam:\\\\?\\usb#22vid_046d&pid_0883&mi_00#227&171f3814&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "res_type": 1,
+                "resolution": "1920x1080",
+                "video_device_id": "1080P Pro Stream WebCam:\\\\?\\usb#22vid_046d&pid_0883&mi_00#227&171f3814&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "video_format": 400
+            },
+            "sync": 0,
+            "versioned_id": "dshow_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "filters": [
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "clut_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "M6II.Apply LUT",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "image_path": "C:/Program Files/obs-studio/data/obs-plugins/obs-filters/LUTs/original.cube"
+                    },
+                    "sync": 0,
+                    "versioned_id": "clut_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "color_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "M6II.Color.Correction.Pre",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "saturation": 0.66000000000000003
+                    },
+                    "sync": 0,
+                    "versioned_id": "color_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "chroma_key_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "M6II.Chroma Key",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "smoothness": 38,
+                        "spill": 163
+                    },
+                    "sync": 0,
+                    "versioned_id": "chroma_key_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "color_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "M6II.Color.Correction.Post",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "saturation": -0.01
+                    },
+                    "sync": 0,
+                    "versioned_id": "color_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "color_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "UC4n.ColorCorrection.Pre",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "saturation": 0.5
+                    },
+                    "sync": 0,
+                    "versioned_id": "color_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "chroma_key_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "UC40.ChromaKey",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "brightness": -0.16,
+                        "contrast": -0.059999999999999998,
+                        "gamma": -0.080000000000000002,
+                        "similarity": 354,
+                        "smoothness": 92,
+                        "spill": 190
+                    },
+                    "sync": 0,
+                    "versioned_id": "chroma_key_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "color_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "UC40.ColorCorrection",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "brightness": 0.01,
+                        "contrast": -0.089999999999999997,
+                        "gamma": -0.10000000000000001
+                    },
+                    "sync": 0,
+                    "versioned_id": "color_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "sharpness_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Sharpen",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {},
+                    "sync": 0,
+                    "versioned_id": "sharpness_filter",
+                    "volume": 1.0
+                }
+            ],
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "dshow_input",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.B",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "active": true,
+                "color_range": "full",
+                "color_space": "709",
+                "frame_interval": 333333,
+                "last_resolution": "3840x2160",
+                "last_video_device_id": "UC40M Video:\\\\?\\usb#22vid_1bcf&pid_0b16&mi_00#22c&233126&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "res_type": 1,
+                "resolution": "3840x2160",
+                "video_device_id": "UC40M Video:\\\\?\\usb#22vid_1bcf&pid_0b16&mi_00#22c&233126&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "video_format": 400
+            },
+            "sync": 0,
+            "versioned_id": "dshow_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "control": true,
+                        "key": "OBS_KEY_B",
+                        "shift": true
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.E": [],
+                "libobs.hide_scene_item.Mic.B": [],
+                "libobs.hide_scene_item.Text.Welcome": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.E": [],
+                "libobs.show_scene_item.Mic.B": [],
+                "libobs.show_scene_item.Text.Welcome": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "B",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 13,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 13,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 12,
+                        "locked": false,
+                        "name": "Mic.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 11,
+                        "locked": false,
+                        "name": "Cam.E",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Text.Welcome",
+                        "pos": {
+                            "x": 148.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.84274953603744507,
+                            "y": 0.84280300140380859
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_1"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.D": [],
+                "libobs.show_scene_item.Display.Main": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Desktop,B.Small",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 10,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 10,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 1122,
+                        "crop_right": 0,
+                        "crop_top": 548,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 1122.0,
+                            "y": 548.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 1019,
+                        "crop_right": 790,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 900.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.083333335816860199,
+                            "y": 0.083333335816860199
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "control": true,
+                        "key": "OBS_KEY_L",
+                        "shift": true
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.C": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.hide_scene_item.Image.Background": [],
+                "libobs.hide_scene_item.Image.Forground": [],
+                "libobs.hide_scene_item.Image.Intro": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.C": [],
+                "libobs.show_scene_item.Cam.D": [],
+                "libobs.show_scene_item.Image.Background": [],
+                "libobs.show_scene_item.Image.Forground": [],
+                "libobs.show_scene_item.Image.Intro": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Intro.Left",
+            "prev_ver": 436273153,
+            "private_settings": {
+                "transition_duration": 1000
+            },
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 22,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 22,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 1,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Image.Background",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 245,
+                        "crop_left": 479,
+                        "crop_right": 210,
+                        "crop_top": 186,
+                        "group_item_backup": false,
+                        "id": 10,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 906.0,
+                            "y": 485.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.79366368055343628,
+                            "y": 0.79352849721908569
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 263,
+                        "crop_left": 640,
+                        "crop_right": 388,
+                        "crop_top": 114,
+                        "group_item_backup": false,
+                        "id": 16,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 1799.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": -0.60762333869934082,
+                            "y": 0.60739684104919434
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 17,
+                        "locked": false,
+                        "name": "Cam.C",
+                        "pos": {
+                            "x": 829.0,
+                            "y": 407.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.55729168653488159,
+                            "y": 0.55740737915039062
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 21,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 19,
+                        "locked": false,
+                        "name": "Image.Intro",
+                        "pos": {
+                            "x": 894.0,
+                            "y": 476.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.52239584922790527,
+                            "y": 0.52254903316497803
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 18,
+                        "locked": false,
+                        "name": "Image.Forground",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.75,
+                            "y": 0.75
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "filters": [
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "chroma_key_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Chroma Key",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "contrast": -0.029999999999999999,
+                        "similarity": 424
+                    },
+                    "sync": 0,
+                    "versioned_id": "chroma_key_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "color_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Color Correction",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "brightness": -0.02,
+                        "contrast": 0.02,
+                        "hue_shift": -1.77,
+                        "saturation": 0.13
+                    },
+                    "sync": 0,
+                    "versioned_id": "color_filter",
+                    "volume": 1.0
+                }
+            ],
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "dshow_input",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.C",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "active": true,
+                "color_range": "full",
+                "color_space": "709",
+                "frame_interval": -1,
+                "last_resolution": "1920x1080",
+                "last_video_device_id": "Integrated Webcam:\\\\?\\usb#22vid_0bda&pid_568a&mi_00#226&1ac3aa3a&1&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "res_type": 1,
+                "resolution": "1920x1080",
+                "video_device_id": "Integrated Webcam:\\\\?\\usb#22vid_0bda&pid_568a&mi_00#226&1ac3aa3a&1&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "video_format": 0
+            },
+            "sync": 0,
+            "versioned_id": "dshow_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "filters": [
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "clut_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Apply LUT",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "image_path": "C:/Program Files/obs-studio/data/obs-plugins/obs-filters/LUTs/teal_lows_orange_highs.png"
+                    },
+                    "sync": 0,
+                    "versioned_id": "clut_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "color_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Color Correction",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "brightness": -0.17999999999999999,
+                        "contrast": 0.40000000000000002,
+                        "gamma": 0.20000000000000001
+                    },
+                    "sync": 0,
+                    "versioned_id": "color_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": false,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "sharpness_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Sharpen",
+                    "prev_ver": 436273153,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "sharpness": 0.5
+                    },
+                    "sync": 0,
+                    "versioned_id": "sharpness_filter",
+                    "volume": 1.0
+                }
+            ],
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "dshow_input",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.E",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "active": true,
+                "audio_output_mode": 0,
+                "color_range": "full",
+                "color_space": "709",
+                "frame_interval": 333666,
+                "last_resolution": "1920x1080",
+                "last_video_device_id": "Intel(R) RealSense(TM) Depth Camera 435i RGB:\\\\?\\usb#22vid_8086&pid_0b3a&mi_03#226&1ec3f942&2&0003#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "res_type": 1,
+                "resolution": "1920x1080",
+                "video_device_id": "Intel(R) RealSense(TM) Depth Camera 435i RGB:\\\\?\\usb#22vid_8086&pid_0b3a&mi_03#226&1ec3f942&2&0003#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "video_format": 301
+            },
+            "sync": 0,
+            "versioned_id": "dshow_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.A": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.C": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.hide_scene_item.Cam.E": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.hide_scene_item.Image.Background": [],
+                "libobs.hide_scene_item.Image.Forground": [],
+                "libobs.hide_scene_item.Image.Intro": [],
+                "libobs.hide_scene_item.Text.OnBreak": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.A": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.C": [],
+                "libobs.show_scene_item.Cam.D": [],
+                "libobs.show_scene_item.Cam.E": [],
+                "libobs.show_scene_item.Display.Main": [],
+                "libobs.show_scene_item.Image.Background": [],
+                "libobs.show_scene_item.Image.Forground": [],
+                "libobs.show_scene_item.Image.Intro": [],
+                "libobs.show_scene_item.Text.OnBreak": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Break",
+            "prev_ver": 436273153,
+            "private_settings": {
+                "transition_duration": 1000
+            },
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 15,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 15,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 1,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Image.Background",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 12,
+                        "locked": false,
+                        "name": "Cam.E",
+                        "pos": {
+                            "x": 890.0,
+                            "y": 425.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.51770836114883423,
+                            "y": 0.51759260892868042
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 138,
+                        "crop_left": 287,
+                        "crop_right": 242,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 887.0,
+                            "y": 381.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.65276777744293213,
+                            "y": 0.65286624431610107
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "Cam.C",
+                        "pos": {
+                            "x": 829.0,
+                            "y": 407.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.55729168653488159,
+                            "y": 0.55740737915039062
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 403,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 829.0,
+                            "y": 93.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": -0.55332726240158081,
+                            "y": 0.55370372533798218
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 11,
+                        "locked": false,
+                        "name": "Cam.A",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Image.Forground",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.75,
+                            "y": 0.75
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Text.OnBreak",
+                        "pos": {
+                            "x": 98.0,
+                            "y": 398.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 2.2049181461334229,
+                            "y": 2.2058823108673096
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 10,
+                        "locked": false,
+                        "name": "Image.Intro",
+                        "pos": {
+                            "x": 917.0,
+                            "y": 388.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.6396917104721069,
+                            "y": 1.6395939588546753
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 13,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 882.0,
+                            "y": 375.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.54062497615814209,
+                            "y": 0.5407407283782959
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Text.OnBreak",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "align": "center",
+                "font": {
+                    "face": "Courier New",
+                    "flags": 0,
+                    "size": 48,
+                    "style": "Regular"
+                },
+                "text": "On break.\nBRB."
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_ASCIITILDE",
+                        "shift": true
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.D": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "D",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 5,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "dshow_input",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Cam.A",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "active": true,
+                "color_range": "full",
+                "color_space": "709",
+                "frame_interval": -1,
+                "last_resolution": "1920x1080",
+                "last_video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#229&6d611cd&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "res_type": 1,
+                "resolution": "1920x1080",
+                "video_device_id": "c922 Pro Stream Webcam:\\\\?\\usb#22vid_046d&pid_085c&mi_00#229&6d611cd&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "video_format": 0
+            },
+            "sync": 0,
+            "versioned_id": "dshow_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_4"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Display.Main": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Desktop,B.XL",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 4,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 1440,
+                        "crop_right": 1440,
+                        "crop_top": 1080,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_ASCIITILDE"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Display.Main": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Display.Main": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Desktop",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 2,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Display.Main",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "control": true,
+                        "key": "OBS_KEY_R",
+                        "shift": true
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.E": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.E": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Room",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 3,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Cam.E",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [
+                    {
+                        "alt": true,
+                        "control": true,
+                        "key": "OBS_KEY_R"
+                    }
+                ],
+                "libobs.hide_scene_item.AudioIn.D": [],
+                "libobs.hide_scene_item.Cam.B": [],
+                "libobs.hide_scene_item.Cam.D": [],
+                "libobs.show_scene_item.AudioIn.D": [],
+                "libobs.show_scene_item.Cam.B": [],
+                "libobs.show_scene_item.Cam.D": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "D,B.XL",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 5,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "AudioIn.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "Cam.D",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 1440,
+                        "crop_right": 1440,
+                        "crop_top": 1080,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "Cam.B",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        }
+    ],
+    "transition_duration": 300,
+    "transitions": []
+}

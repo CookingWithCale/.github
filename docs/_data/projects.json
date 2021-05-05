@@ -1,20 +1,27 @@
 [
 	{
-		"name": "IGEEK",
+		"name": "Antifa-nazi Riot Cookbook",
 		"image": "placeholder.jpg",
-		"url": "https://github.com/KabukiStarship/IGEEK",
+		"url": "https://github.com/KabukiStarship/IGeekCookbook",
+		"date": "July 2019",
+		"tags": ["Embedded C++","Script2", "IMUL"]
+	},
+	{
+		"name": "iGeek",
+		"image": "placeholder.jpg",
+		"url": "https://github.com/KabukiStarship/IGeek",
 		"date": "July 2019",
 		"tags": ["Embedded C++","Script2", "IMUL"]
 	},
 	{
 		"name": "IGEEK Cookbook",
 		"image": "placeholder.jpg",
-		"url": "https://github.com/KabukiStarship/IGEEKCookbook",
+		"url": "https://github.com/KabukiStarship/IGeekCookbook",
 		"date": "July 2019",
 		"tags": ["Embedded C++","Script2", "IMUL"]
 	},
 	{
-		"name": "IGEEK Cookbook YouTube channel",
+		"name": "IGeek Cookbook YouTube channel",
 		"image": "placeholder.jpg",
 		"url": "https://www.youtube.com/channel/UCS2vQG4gUE3vXWV_K9XScQw",
 		"date": "July 2019",

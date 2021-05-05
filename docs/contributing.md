@@ -1,12 +1,14 @@
-# Contributing Guide
+## Contributing Guide
 
-**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/ABCOrg/XYZProject/issues).
+### Bug Reports
+
+**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/CookingWithCale/CookingWithCale/issues).
 
 **2.** Open `/docs/bug_report_template.md` and copy it's contents to the clipboard.
 
 **3.** Create an issue, paste the template into the Issue body and fill it out.
 
-## Feature Requests
+### Feature Requests
 
 **1.** Same as the instructions for submitting a bug report except with using `/docs/feature_request.md`.
 
@@ -15,8 +17,8 @@
 **1.** Clone the repo and create a branch for the IssueNuber:
 
 ```Console
-git clone https://github.com/ABCOrg/XYZProject.git
-cd Script2
+git clone https://github.com/CookingWithCale/CookingWithCale.git
+cd CookingWithCale
 git checkout -b Issue123
 ```
 
@@ -32,17 +34,16 @@ git push origin Issue123
 
 **4.** Get others to inspect your changes and merge the branch to the master.
 
-**5.** Merge the branch, complete another ticket, and delete the old branch.
+**5.** Merge the branch, complete another ticket, and delete the old branch. Please note in the first example we used the command `git checkout -b Issue123` but this time we're going to recycle the git branch by moving it with the `git branch -m OldIssue NewIssue` command; it's less work than deleting the branch.
 
-```Console
-git checkout -b Issue125
+```BASH
+git checkout -m Issue123 Issue125
 git add --all
 git commit "ModuleID.Fix feature ABC. #125"
-git branch -d Issue123
 ```
+
+**6.** Submit a Pull request on GitHub at <https://github.com/CookingWithCale/CookingWithCale/pulls>.
 
 ## License
 
-Copyright © 2020 [Kabuki Starship](https://kabukistarship.com).
-
-This file and the folder and repository it is contained in are private and contain intellectual property, trade secrets, copyrighted material, and other protected works, the IP, that are the property of the IP Owner. You must get explicit permission from the IP Owner to possess, view, modify, share, duplicate, discuss, or publicly display the IP.
+Copyright 2014-21 © Cale McCollough <<https://cookingwithcale.org>>; most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://cookingwithcale.org/License>.
