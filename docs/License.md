@@ -1,3 +1,9 @@
+---
+layout: page
+title: Cooking with Cale license
+permalink: /License/
+---
+
 ## License
 
 Copyright 2014-21 © Cale McCollough <<https://cookingwithcale.org>>; most rights reserved, Third-party commercialization prohibited, mandatory improvement donations.
