@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /About/
 ---
 
 ## What is Cooking with Cale?
 
-Cale McCollough is the captain of the Kabuki Starship and a software and computer engineer, musician and entrepreneur from Eugene, Oregon. Cale is the author and inventor of the cookbooks, software, and hardware projects in the [Projects page](/projects).
+Cale McCollough is the captain of the Kabuki Starship and a software and computer engineer, musician and entrepreneur from Eugene, Oregon. Cale is the author and inventor of the cookbooks, software, and hardware projects in the [Projects page](/Projects).
 
 Cooking with Cale is a livestream weekdays from 8-9 PM WST where I make open-source cookbooks and technology reverse global warming, spaceships and androids to colonize Mars, MIDI controllers and audio synthesizers to jam out with, Websites with apps for the books, and the Astartup Toolkit and Mission Control Center to make your startup an A startup with the A* Startup productivity system and app.
 
@@ -16,4 +16,4 @@ You can find the Cookbooks and open-source projects in the [Projects page](./Pro
 
 ### Session Tickets
 
-Cooking with Cale uses a powerful productivity technique called Morning, Day, and Night sessions. Instructions on how to perform Issue-driven Development using the Morning, Day, and Night Productivity technique and Astartup Operating System, please read the [Astartup OS section of Productivity chapter of the Astartup Cookbook](https://github.com/a-startup/astartup.cookbook/tree/master/productivity/astartup_os).
+Cooking with Cale uses a powerful productivity technique called Morning, Day, and Night sessions. Instructions on how to perform Issue-driven Development using the Morning, Day, and Night Productivity technique and Astartup Operating System, please read the [Astartup OS section of Productivity chapter of the Astartup Cookbook](https://github.com/CookingWithCale/AStartupCookbook/tree/master/Productivity/AStartupOS).

@@ -1,3 +1,0 @@
-CarWorld.Prototype.Assemble self-driving car kit. #10                                    
-
-Make a donation to support this open-source technology at https://cookingwithcale.org/donate

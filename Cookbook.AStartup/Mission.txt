@@ -1,7 +1,0 @@
->AStartupToolkit
-  Add 
-  Publish NPM package. #58
-<
->AStartupMCC
-  Add AStartupToolkit NPM package. #2
-<
