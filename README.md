@@ -1,12 +1,15 @@
 Welcome to the Cooking with Cale GitHub. Bellow is a list of cookbook and open-source projects that you can contribute to:
 
-1. AStarStartup/AStartupCookbook
-1. OregonCooler/GreentechCookbook
-1. KabukiStarship/KabukiPressCookbook 
-1. KabukiStarship/iGeekCookbook
-1. CookingWithCale/MarkdownGameDev 
-1. CookingWithCale/MarkdownCookbook
-1. CookingWithCale/MarkdownSoftwareEngineering
+1. [AStarStartup/AStartupCookbook](https://github.com/AStarStartup/AStartupCookbook)
+1. [OregonCooler/GreentechCookbook](https://github.com/OregonCooler/GreentechCookbook)
+1. [KabukiStarship/KabukiPressCookbook](https://github.com/KabukiStarship/KabukiPressCookbook)
+1. [KabukiStarship/iGeekCookbook](https://github.com/KabukiStarship/iGeekCookbook)
+
+Cooking with Cale Cookbooks are based on the Markdown Cookbook. There is are also other markdown templates that you can use for your project.
+
+1. [CookingWithCale/MarkdownGameDev](https://github.com/CookingWithCale/MarkdownGameDev) 
+1. [CookingWithCale/MarkdownCookbook](https://github.com/CookingWithCale/MarkdownCookbook)
+1. [CookingWithCale/MarkdownSoftwareEngineering](https://github.com/CookingWithCale/MarkdownSoftwareEngineering)
 
 ## License
 
