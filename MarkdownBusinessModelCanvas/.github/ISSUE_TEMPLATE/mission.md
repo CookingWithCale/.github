@@ -4,6 +4,7 @@ about: A mission with a problem-solution analysis
 title: ''
 labels: ''
 assignees: ''
+
 ---
 
 ### A
@@ -34,4 +35,4 @@ Mission
 
 ## License
 
-Copyright ©2022 [Cale McCollough](https://cookingwithcale.org); all rights reserved.
+Copyright 2022 © [Cale McCollough](https://cookingwithcale.org); all rights reserved.
