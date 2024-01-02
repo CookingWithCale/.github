@@ -8,13 +8,9 @@ Welcome to the Cooking with Cale GitHub. Bellow is a list of cookbook and open-s
 
 Cooking with Cale Cookbooks are based on the Markdown Cookbook, which has turned into the [AStartupToolkit](https://github.com/AStarStartup/AStartupToolkit).
 
-1. [CookingWithCale](https://github.com/CookingWithCale)/[MarkdownGameDev](https://github.com/CookingWithCale/MarkdownGameDev)
-1. [CookingWithCale](https://github.com/CookingWithCale)/[MarkdownCookbook](https://github.com/CookingWithCale/MarkdownCookbook)
-1. [CookingWithCale](https://github.com/CookingWithCale)/[MarkdownSoftwareEngineering](https://github.com/CookingWithCale/MarkdownSoftwareEngineering)
-
 ## License
 
-Copyright ©2014-22 [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale>.
+Copyright [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale>.
 
 ### Legal Agreement
 
