@@ -34,4 +34,4 @@ Mission
 
 ## License
 
-Copyright ©2022 [Cale McCollough](https://cookingwithcale.org); all rights reserved.
+Copyright [Cale McCollough](https://cookingwithcale.org); all rights reserved.

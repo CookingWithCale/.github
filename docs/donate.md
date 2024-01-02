@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Donate
-permalink: /Donate/
-featured-image: issue32.
+permalink: /donate/
+featured-image: donate
 ---
 
 On this page you can make a donation to Cooking with Cale Foundation via the Kabuki Starship via PayPal. You may optionally select to donate to one of the cookbooks, or all of them. This will help us prioritize work to be done on the cookbook of your choice. Any time we get enough money to hire someone we do so gleefully and thank you sincerely for the donation.
