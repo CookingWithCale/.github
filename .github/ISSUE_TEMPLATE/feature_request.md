@@ -3,37 +3,32 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: ''
-
+assignees: 'CookingWithCale'
 ---
-
-### A
-
-#### Problem
+## Problem
 
 The problem this feature solves is...
 
-#### Solution
+## Solution
 
 The solution is to implement a feature that...
 
-##### File Affected
+### File Affected
 
 1. `*.*`
 
-#### Hierarchy
+## Hierarchy
 
-* #1
+* #19
 
-#### Tags
+## Tags
 
 RequestFeature
 
-#### Sessions
+## Sessions
 
-* #2
-* CookingWithCale/CookingWithCale#2
+* CookingWithCale/.github#9
 
 ## License
 
-Copyright [Cale McCollough](https://cookingwithcale.org); all rights reserved.
+Copyright [Cooking with Cale](https://cookingwithcale.org); all rights reserved.
