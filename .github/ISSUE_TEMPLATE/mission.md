@@ -3,35 +3,36 @@ name: Mission
 about: A mission with a problem-solution analysis
 title: ''
 labels: ''
-assignees: ''
+assignees: 'CookingWithCale'
 ---
-
-### A
-
-#### Problem
+## Problem
 
 The problem I am addressing on this mission is...
 
-#### Solution
+## Solution
 
 The solution that I'm addressing on this mission is...
 
-##### File Affected
+### File Affected
 
-1. `*.*`
+1. `?`
 
-#### Hierarchy
+## Hierarchy
 
-* #1
+* #19
 
-#### Tags
+## Tags
 
 Mission
 
-#### Sessions
+## A
 
-* CookingWithCale/CookingWithCale#1
+.
+
+### Sessions
+
+* CookingWithCale/.github#9
 
 ## License
 
-Copyright [Cale McCollough](https://cookingwithcale.org); all rights reserved.
+Copyright [Cooking with Cale](https://cookingwithcale.org); all rights reserved.

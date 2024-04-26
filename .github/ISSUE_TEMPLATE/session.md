@@ -5,7 +5,10 @@ title: 'Session @2024-'
 labels: ''
 assignees: 'CookingWithCale'
 ---
+## Participants
+
+1. CookingWithCale/.github#9
 
 ## License
 
-Copyright [Cale McCollough](https://cookingwithcale.org); all rights reserved.
+Copyright [Cooking with Cale](https://cookingwithcale.org); all rights reserved.

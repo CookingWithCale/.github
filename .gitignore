@@ -16,6 +16,9 @@
 /.pnp
 .pnp.js
 
+# Visual Studio & VS Code Files
+/.vscode
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
